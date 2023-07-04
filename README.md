@@ -1,4 +1,4 @@
-## Task
+## App details
 
 This is my own portfolio, a page that showcases my work.
 This portfolio page is a single page that contain the following sections:
