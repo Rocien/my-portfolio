@@ -28,6 +28,12 @@ const projects = [
      "This is my Final capstone project for Meta Front-end developer program on Coursera, which contains a detailed and responsive website with table-booking functionality built using React", 
    getImageSrc: () => require("../images/photo4.jpg"), 
  }, 
+ { 
+  title: "Jewelery Website", 
+  description: 
+    "This is my simple jewelery website built using only HTML and CSS", 
+  getImageSrc: () => require("../images/photo7.jpg"), 
+}, 
 ]; 
  
 const ProjectsSection = () => { 

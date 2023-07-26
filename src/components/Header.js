@@ -8,7 +8,7 @@ import {
  faStackOverflow, 
 } from "@fortawesome/free-brands-svg-icons"; 
 import { Box, HStack } from "@chakra-ui/react"; 
-import resume from "../files/resume.pdf";
+import resume from "../files/Rocien Nkunga Resume.docx";
  
 const socials = [ 
  { 

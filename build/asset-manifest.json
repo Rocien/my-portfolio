@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.df6a7eab.css",
+    "main.js": "/static/js/main.69ba5dfd.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Rocien Nkunga Resume.docx": "/static/media/Rocien Nkunga Resume.a51bc7860aba9fce111b.docx",
+    "static/media/photo4.jpg": "/static/media/photo4.b4dc375ff4c87389701c.jpg",
+    "static/media/photo7.jpg": "/static/media/photo7.39c9a0a4024c37e7d63e.jpg",
+    "static/media/photo1.jpg": "/static/media/photo1.40d2a7b15bcb9821fc87.jpg",
+    "static/media/Photo5.jpg": "/static/media/Photo5.071fa94f6d48d4f273c4.jpg",
+    "static/media/photo2.jpg": "/static/media/photo2.2f79f748855fa22907c3.jpg",
+    "static/media/photo3.jpg": "/static/media/photo3.01477d71818ca67ef886.jpg",
+    "index.html": "/index.html",
+    "main.df6a7eab.css.map": "/static/css/main.df6a7eab.css.map",
+    "main.69ba5dfd.js.map": "/static/js/main.69ba5dfd.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df6a7eab.css",
+    "static/js/main.69ba5dfd.js"
+  ]
+}
